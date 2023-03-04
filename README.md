@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como BDR(Pré-Vendas) qualificando cliente através de negociações consultivas utilizando técnicas como BANT, Spin Selling, e a matriz Receita Previsível. [Atuando na Mercafacil](https://mercafacil.com/)
 
-- 🌱 Atualmente estou aprendendo **Análise de Dados**
+- 🌱 Estudando **Análise de Dados**
 
 - 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel, Python, ETL, e Pandas**
 
