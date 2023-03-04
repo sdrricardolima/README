@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Ricardo Lima</h1>
 <h3 align="center">Um Paraense da época do MacGyver vivendo em Curitiba. Entusiasta de Inside Sales, Análise de Dados, Tecnologia, e Universo Maker.</h3>
 
-- 🔭 Atualmente estou trabalhando como BDR(Pré-Vendas) qualificando cliente através de negociações consultivas utilizando técnicas como BANT, Spin Selling, e a matriz Receita Previsível. [Buzzmonitor](https://buzzmonitor.com.br/)
+- 🔭 Atualmente estou trabalhando como BDR(Pré-Vendas) qualificando cliente através de negociações consultivas utilizando técnicas como BANT, Spin Selling, e a matriz Receita Previsível. [Mercafacil](https://mercafacil.com/)
 
 - 🌱 Atualmente estou aprendendo **Análise de Dados**
 
