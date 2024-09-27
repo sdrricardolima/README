@@ -1,12 +1,12 @@
 <h1 align="center">Oi 👋, Eu sou Ricardo Lima</h1>
 <h3 align="center">Um Paraense da época do MacGyver vivendo em Curitiba. 
 
-- 🔭 Entusiasta de Análise de Dados, Inside Sales, Tecnologia, e Universo Maker. Tive a satisfação de atuar em posições diferentes na área de negócios vivenciando a prospecção de clientes em Inside Sales como SDR e BDR, e também auxiliando minha liderança durante um período como Sales Ops, o que me revelou a importância da construção dos dados no contexto do comercial, trabalhando com a análise dos indicadores, e apresentação dos dados para o time. Utilizo esta expertise para a área de dados buscando auxiliar tanto em uma melhor compreensão no levantamento de requisitos, trazendo insights, e construindo dashboards em Power BI e Looker Data Studio. ▲
+- 🔭 Entusiasta de Análise de Dados, Inside Sales, Tecnologia, e Universo Maker. Tive a satisfação de atuar em posições diferentes na área de negócios vivenciando a prospecção de clientes em Inside Sales como SDR e BDR, participando de feiras como parceiro estratégico e também auxiliando minha liderança durante um período como Sales Ops, o que me revelou a importância da construção dos dados no contexto do comercial, trabalhando com a análise dos indicadores, e apresentação dos dados para o time. Utilizo esta expertise para a área de dados buscando auxiliar tanto em uma melhor compreensão no levantamento de requisitos, trazendo insights, quanto construindo dashboards em Power BI e Looker Data Studio. ▲
 
 #analisededados #insidesales #dataviz #sql #sdr #bdr #googledatastudio #powerbi #python #pandas
 - 🌱 Estudando **Análise de Dados**
 
-- 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel, Python**
+- 💬 Me pergunte sobre **Prospecção de clientes, Inside Sales, Looker Studio, Power BI, Excel, Python**
 
 - 📫 Você me acha através do e-mail **ricardolimadata@gmail.com**
 
