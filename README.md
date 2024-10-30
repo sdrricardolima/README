@@ -13,8 +13,9 @@
 - 📄 Fui fundado por Ricardo Lima e aqui estão as habilidades profissionais [https://www.linkedin.com/in/ricardoaslima/](https://www.linkedin.com/in/ricardoaslima/)
 
 - PORTFÓLIO (Microsoft Power BI)
->>> Dashboard de Vendas por Continentes - Simples e Objetivo - https://app.powerbi.com/view?r=eyJrIjoiMmY2N2YyZTktMmU2OC00NzUyLWI2MDMtOTI5ZTQ1ZjBiMjEwIiwidCI6IjIwZmI2NDczLTljMWQtNDJhNS1iYWExLTI1MmY1Mjg2MGI4OCJ9
->>> Dashboard Financeiro - DataPharma(Aula com Karine Lago e Leticia Smirelli) - https://app.powerbi.com/view?r=eyJrIjoiY2NiZjE3NDgtNjk2Zi00OTQzLTk2N2EtOWIzMzQwZGRlZGU1IiwidCI6IjIwZmI2NDczLTljMWQtNDJhNS1iYWExLTI1MmY1Mjg2MGI4OCJ9
++++++ Dashboard de Vendas por Continentes - Simples e Objetivo - https://app.powerbi.com/view?r=eyJrIjoiMmY2N2YyZTktMmU2OC00NzUyLWI2MDMtOTI5ZTQ1ZjBiMjEwIiwidCI6IjIwZmI2NDczLTljMWQtNDJhNS1iYWExLTI1MmY1Mjg2MGI4OCJ9
+
++++++ Dashboard Financeiro - DataPharma(Aula com Karine Lago e Leticia Smirelli) - https://app.powerbi.com/view?r=eyJrIjoiY2NiZjE3NDgtNjk2Zi00OTQzLTk2N2EtOWIzMzQwZGRlZGU1IiwidCI6IjIwZmI2NDczLTljMWQtNDJhNS1iYWExLTI1MmY1Mjg2MGI4OCJ9
 
 
 <h3 align="left">Connect with me:</h3>
